@@ -4,11 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.booksmanagement.adapter.BookAdapter;
-import com.example.booksmanagement.adapter.Books;
+import com.example.booksmanagement.recyclerView.BookAdapter;
+import com.example.booksmanagement.modal.Books;
 
 import java.util.ArrayList;
 import java.util.List;

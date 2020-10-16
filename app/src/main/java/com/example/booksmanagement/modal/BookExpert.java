@@ -1,4 +1,4 @@
-package com.example.booksmanagement.adapter;
+package com.example.booksmanagement.modal;
 
 import java.util.ArrayList;
 
